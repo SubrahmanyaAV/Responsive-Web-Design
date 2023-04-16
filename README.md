@@ -7,3 +7,5 @@ Responsive Web Design - freeCodeCamp
 5. Rothko Painting - the Box Model to create your own Rothko-style rectangular art pieces.
 6. Photo Gallery- using Flexbox to build a responsive photo gallery webpage.
 7. Nutrition Label-  using typography to build a nutrition label webpage and learn how to style text, adjust line height, and position your text using CSS.
+8. Learn Accessibility by Building a Quiz- Accessibility is making your webpage easy for all people to use – even people with disabilities.
+using n learning accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
