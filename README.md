@@ -17,7 +17,7 @@ Responsive Web Design - freeCodeCamp
 8. Learn Accessibility by Building a Quiz- Accessibility is making your webpage easy for all people to use – even people with disabilities.
 using n learning accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 
-9.Survey Form- Collects data from users.
+9. Survey Form- Collects data from users.
 
 10. Picasso Painting-  CSS techniques to build Picasso painting webpage. You'll learn about SVG icons, CSS positioning, and review other.
 
